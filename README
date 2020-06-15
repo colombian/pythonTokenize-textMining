@@ -1,4 +1,5 @@
 This project read/scraps biographies on wikipedia, and collect the articles for text processing.
+A base text is preloaded on tarea1/tarea1/base.csv
 
 Scrapy crawler:
 
