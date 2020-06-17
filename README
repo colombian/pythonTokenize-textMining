@@ -1,9 +1,19 @@
+Repo link
+https://github.com/colombian/pythonTokenize-textMining
+
 This project read/scraps biographies on wikipedia, and collect the articles for text processing.
 A base text is preloaded on tarea1/tarea1/base.csv
 
-Scrapy crawler:
+versions:
+python 3.8.3
+scrapy 1.6.0
+
+how to run Scrapy crawler:
 
 $ cd tarea1/
 $ scrapy crawl wiki -o base.csv
 
 The text processing, is done in Jupyter notebook
+The project was writen using jupyter notebook of anaconda
+
+The jupyter notebook is in tarea1/Tarea1.ipynb
